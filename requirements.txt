@@ -5,3 +5,4 @@ markdown
 google-generativeai
 google-genai
 duckduckgo-search
+openai
